@@ -2,7 +2,7 @@
 layout: post
 title:  Code review
 #categories: [HTML,Code]
-excerpt: In graphic design, a pull quote (also known as a lift-out pull quote) is a key phrase, quotation, or excerpt that has been pulled from an article and used as a page layout graphic element, serving to entice readers into the article or to highlight a key topic.
+excerpt: One important aspect of the code review process
 ---
 One of the common aspects of my work as a developer is reviewing the code written by others. There are tons of articles that talk about best practices when doing so, however I found [this one](https://mtlynch.io/code-review-love/) from [Michael Lynch](https://twitter.com/deliberatecoder) particularly interesting, as instead of talking about the reviewer's role, it focuses on the author of the code (*reviewee*).
 
