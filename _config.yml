@@ -21,15 +21,15 @@ author: Marcin Religa
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: amit.d.merchant@gmail.com
+  email:
   facebook:
   flickr:
-  github: amitmerchant1990/reverie
-  instagram:
+  github:
+  instagram: marcin_r_
   linkedin:
   pinterest:
   rss: rss
-  twitter: amit_merchant
+  twitter: marcin_religa
   stackoverflow:
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -86,7 +86,7 @@ plugins:
 
 include: ['_pages']
 
-paginate: 6
+paginate: 20
 paginate_path: /page:num/
 
 # Exclude these files from your production _site
